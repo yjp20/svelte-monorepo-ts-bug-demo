@@ -1,0 +1,10 @@
+{
+  "name": "svelte-ts-monorepo-demo",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "svelte-check": "^1.1.31"
+  }
+}
